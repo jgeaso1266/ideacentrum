@@ -7,4 +7,4 @@ This app connects people unlike any other! While other social media connect peol
 Please contribute any ideas by emailing me!
 
 ## License
-[FBLA] (fbla-pbl.org)
+[FBLA](fbla-pbl.org)
